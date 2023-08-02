@@ -10,12 +10,12 @@ title = "Christopher Davis"
   dateFormat = "2 January 2006"
   # logo = "img/logo.png"
   # secondaryLogo = "img/secondary-logo.png"
-  # description = "My awesome website"
+  description = "Personal website for Christopher Davis"
   # copyright = "Copy, _right?_ :thinking_face:"
 
 [author]
   name = "Christopher Davis"
-  image = "img/blowfish_logo.png"
+  image = "img/wales_square.jpeg"
   headline = "Computer Science & Math @ University of Michigan"
   bio = "this is the bio section"
   links = [
