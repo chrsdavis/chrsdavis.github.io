@@ -13,6 +13,16 @@
 # Real:
 
 [[main]]
+name = "Writeups"
+pageRef = "posts"
+weight = 1
+
+[[main]]
+name = "Education"
+pageRef = "education"
+weight = 2
+
+[[main]]
 name = "Resume"
 pageRef = "resume"  
 weight = 10
