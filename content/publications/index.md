@@ -23,6 +23,12 @@ showAuthor: false
 
 ## Platform Publications
 
+***Davis CC**, Dahad AP, Kearfott KJ*. Reinforcement and deep learning methods for radionuclide source localization. Health Phys 127(1)148; 2024. [poster]
+DOI: 10.1097/HP.0000000000001864
+
+***Davis CC**, Dahad AP, Kearfott KJ*. Reinforcement and deep learning methods for radionuclide source localization. Health Phys 127(1)148; 2024. [poster]
+DOI: 10.1097/HP.0000000000001864
+
 ***Davis CC**, Trager ME, Chung LK, Kim RA, Noey JD, Kearfott KJ*. A mapping and navigation algorithm for an intelligent radiation awareness drone. Health Phys 123(1):71; 2022. [platform presentation]
 
 *Chung LK, Chan A, Li Y, Wong A, **Davis CC**, Noey JD, Kearfott KJ*. Application and comparison of multi-robot exploration methods for radioactive source localization. Health Phys 123(1):70; 2022. [platform presentation]

@@ -48,6 +48,14 @@ showAuthor: false
     </thead>
     <tbody>
         <tr>
+            <!-- <td><img src="img/rhe_lab-logo.png" width=120px height=auto/></td> -->
+            <td><img class="customEntitityLogo" src="img/google.png"/></td>
+            <td>Google</td>
+            <td>Software Engineer Intern</td>
+            <td>May 2024 - Aug 2024</td>
+            <td>Seattle, WA</td>
+        </tr>
+        <tr>
             <td rowspan=2><img class="customEntitityLogo" src="img/aws.png"/></td>
             <td rowspan=2>Amazon Web Services</td>
             <td>Software Development Engineer Intern</td>
@@ -103,5 +111,5 @@ showAuthor: false
 <b>Languages:</b> C++, C, Python, Typescript, Julia, Java <br>
 <b>Frameworks:</b> CUDA, React, ROS<br>
 <b>Tools:</b> Ghidra, Radare, GDB, BurpSuite <br>
-<b>Libraries:</b> Tensorflow, Thrust, OpenGL, Eigen, scikit-image, pwn tools, QT <br>
+<b>Libraries:</b> Chromium, libcurl, Eigen, Abseil, Tensorflow, Pytorch, Qt  <br>
 <b>Services:</b> AWS Lambda, DynamoDB, Cloudfront, S3, API Gateway, EC2
